@@ -5,4 +5,8 @@ change in dev branch
 
 git switch -c test 
 
-new master change feature1
+<<<<<<< HEAD
+master and feature1 change
+=======
+master and feature1 change
+>>>>>>> feature1
